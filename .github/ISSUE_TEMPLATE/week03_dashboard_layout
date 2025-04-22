@@ -1,9 +1,0 @@
-### 🔥 Dashboard Layout & Routing
-**Labels:** frontend, layout  
-**Priority:** High
-
-#### ✅ Tasks:
-- [ ] Set up sidebar + header layout
-- [ ] Implement nested routing with React Router
-- [ ] Add dummy pages for navigation (e.g., Dashboard, Clients)
-- [ ] Make layout responsive
