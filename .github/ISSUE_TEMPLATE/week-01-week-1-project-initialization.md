@@ -1,8 +1,8 @@
 ---
-name: Week 1: Project Initialization
-about: Tasks and goals for Week 1: Project Initialization
+name: "Week 1: Project Initialization"
+about: "Tasks and goals for Week 1: Project Initialization"
 title: "Week 1: Project Initialization"
-labels: ['frontend', 'setup']
+labels: ["frontend", "setup"]
 assignees: []
 ---
 
